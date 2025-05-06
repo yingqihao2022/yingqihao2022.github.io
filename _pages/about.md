@@ -26,9 +26,9 @@ I am mentored by PhD student [Mingxuan Liu](http://arktis2022.github.io) at Birt
 Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../images/wechat.jpg) 
 
 # 🔥 News
-**2025.05.02:** 🎉🎉 Our short paper have been accepted by [MIDL 2025](https://2025.midl.io/).
+**2025.05.02:** 🎉🎉 Our short paper has been accepted by [MIDL 2025](https://2025.midl.io/).
 
-**2025.02.12:** 🎉🎉 Our several papers have been accepted by [OHBM 2025](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229).
+**2025.02.12:** 🎉🎉 Our paper has been accepted by [OHBM 2025](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229).
 
 
 # 📝 Publications 
