@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Mingxuan Liu (刘铭轩)"
+title                    : "Yingqi Hao (郝英奇)"
 description              : --------------
-repository               : "Arktis2022/Arktis2022.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "yingqihao2022/yingqihao2022.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Mingxuan Liu"
+  name             : "Yingqi Hao"
   avatar           : "images/profile.png"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ"
-  email            : "arktis@qq.com"
+  googlescholar    : 
+  email            : "hao-yq22@mails.tsinghua.edu.cn" "haoyingqi2004@outlook.com
   researchgate     : "https://www.researchgate.net/profile/Mingxuan-Liu-18"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Arktis2022"
+  github           : "yingqihao2022"
   google_plus      :
   keybase          :
   instagram        :
