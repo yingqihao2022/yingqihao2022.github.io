@@ -38,7 +38,7 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Comprehensive Evaluation of Unsupervised Image Enhancement for Volumetric Fetal Brain MRI</span> <br>
     <a href="https://openreview.net/forum?id=RY54DHewSk">[Paper]</a> <a href="https://github.com/yingqihao2022/FetalBrainEnhancement">[Code]</a> <br> 
-    Yingqi Hao#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
+    <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Mingxuan Liu#, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
     <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
   </li>
 </ol>
@@ -47,7 +47,7 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
 <ol reversed>
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Unsupervised Anomaly Detection for Fetal Brain MRI using Two-Stage Denoising Autoencoder (&#x3C9;-DAE)</span> <br>
-    Yingqi Hao, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Juncheng Zhu, Hongjia Yang, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
+    <span style="color:#b02418; font-weight:bold;">Yingqi Hao</span>, Mingxuan Liu, Juncheng Zhu, Hongjia Yang, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
     <a href="https://hal.science/hal-04974207">[Paper]</a> <br> 
     <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster)
   </li>
