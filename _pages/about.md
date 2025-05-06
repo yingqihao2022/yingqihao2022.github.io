@@ -68,11 +68,11 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
 
 # 🎣 International Activities
 
-- *2024.1 - 2024.2* Tsinghua Social Practice Team to Saudi Arabia **Associate Team Leader**
-- *2024.2 - 2024.2* Weixian College Social Practice Team to Wuhan **Team Leader**
-- *2024.7 - 2024.8* Tsinghua Social Practice Team to the United States **Team Member**
-- *2025.3 - 2025.5* 2025 Tsinghua-Georgetown Youth Dialogue: The Future of U.S.-China Relations **Chinese Delegate**
-- *2025.5 - 2025.5* 2025 Tsinghua-Pennsylvania Youth Dialogue: **Chinese Delegate**
+- *2024.1 - 2024.2* Tsinghua Social Practice Team to Saudi Arabia **(Associate Team Leader)**
+- *2024.2 - 2024.2* Weixian College Social Practice Team to Wuhan **(Team Leader)**
+- *2024.7 - 2024.8* Tsinghua Social Practice Team to the United States **(Team Member)**
+- *2025.3 - 2025.5* 2025 Tsinghua-Georgetown Youth Dialogue: The Future of U.S.- China Relations **(Chinese Delegate)**
+- *2025.5 - 2025.5* 2025 Tsinghua-Pennsylvania Youth Dialogue **(Chinese Delegate)**
 
 # 🔗 LINKS
 BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)<br>
