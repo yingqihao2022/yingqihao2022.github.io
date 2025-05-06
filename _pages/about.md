@@ -57,16 +57,22 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
 
 # 🎖 Honors and Awards
 
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/de4438e28228284b.jpg) *2025* **First Prize for Medical Image Processing Course(Top 1)**, Tsinghua University <br /> &nbsp; &nbsp; &nbsp; *Course PI: Prof. Guangzhi Wang, Prof. Qiyuan Tian, School of Biomedical Engineering, Tsinghua University*
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/de4438e28228284b.jpg) *2025* **First Prize for Medical Image Processing Course(Top 1)**<br /> &nbsp; &nbsp; &nbsp; *Course PI: Prof. Guangzhi Wang, Prof. Qiyuan Tian, School of Biomedical Engineering, Tsinghua University*
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/8593b53040f7c593.jpg) *2023* **Comprehensive Scholarship for Excellence**, Weixian College, Tsinghua University(**Top 20%**)
 
 # 📖 Educations
 - *2022.09 – Present*, Undergraduate student: **Weixian College** and **School of Biomedical Engineering**, Tsinghua University, China.
 
-
 # 💰 Funding
 - *2025-Present* **Tsinghua University Startup Fund.**
 
+# 🎣 International Activities
+
+- *2024.1 - 2024.2* Tsinghua Social Practice Team to Saudi Arabia **Associate Team Leader**
+- *2024.2 - 2024.2* Weixian College Social Practice Team to Wuhan **Team Leader**
+- *2024.7 - 2024.8* Tsinghua Social Practice Team to the United States **Team Member**
+- *2025.3 - 2025.5* 2025 Tsinghua-Georgetown Youth Dialogue: The Future of U.S.-China Relations **Chinese Delegate**
+- *2025.5 - 2025.5* 2025 Tsinghua-Pennsylvania Youth Dialogue: **Chinese Delegate**
 
 # 🔗 LINKS
 BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)<br>
