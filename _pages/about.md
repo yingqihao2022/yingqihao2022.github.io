@@ -58,8 +58,8 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
 # 🎖 Honors and Awards
 
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/fa3e12191add4d53.jpg) *2022* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University 
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/de4438e28228284b.jpg) *2022* **Second Prize for Outstanding Projects of the Students Research Training Program**, Tsinghua University <br /> &nbsp; &nbsp; &nbsp; *Supported by a National College Student Innovation and Entrepreneurship Project*
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/8593b53040f7c593.jpg) *2020* **Scholarship for Academic Excellence**, Tsinghua University 
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/de4438e28228284b.jpg) *2025* **First Prize for Medical Image Processing Course(Top 1)**, Tsinghua University <br /> &nbsp; &nbsp; &nbsp; *Supported by a National College Student Innovation and Entrepreneurship Project*
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/8593b53040f7c593.jpg) *2023* **Comprehensive Scholarship for Excellence**, Weixian College, Tsinghua University(**Top 20%**)
 
 # 📖 Educations
 - *2022.09 – Present*, Undergraduate student: **Weixian College** and **School of Biomedical Engineering**, Tsinghua University, China.
