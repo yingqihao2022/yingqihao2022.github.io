@@ -75,24 +75,12 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/8593b53040f7c593.jpg) *2020* **Scholarship for Academic Excellence**, Tsinghua University 
 
 # 📖 Educations
-- *2024.08 - present*, PhD student: **School of Biomedical Engineering**, Tsinghua University, China.
-- *2021.09 - 2024.06*, Undergraduate student: **School of Biomedical Engineering**, Tsinghua University, China. 
-- *2019.09 – 2021.08*, Undergraduate student: **Department of Chemical Engineering**, Tsinghua University, China.
+- *2022.09 – Present*, Undergraduate student: **Weixian College** and **School of Biomedical Engineering**, Tsinghua University, China.
 
-# 🦜 Invited Talks
-- *2024* **2024 ISMRM & ISMRT Annual Meeting & Exhibition**
-- *2023* **AI Health Summit 2023**
-- *2023* **2023 IEEE International Symposium on Circuits and Systems**
-- *2022* **2022 IEEE Biomedical Circuits and Systems Conference**
 
 # 💰 Funding
-- *2023-2024* **Beijing Natural Science Foundation Undergraduate "Qiyan" Program**
-- *2022-2023* **National College Student Innovation and Entrepreneurship Project**
+- *2025-Present* **Tsinghua University Startup Fund.**
 
-# 🎓 Academic Service
-+ Co-organizer of [OCSMRM 2024](http://www.ocsmrm.org/)
-+ *Journal Reviewer*, IEEE TCDS; IEEE TCAS-I; IEEE TCAS-II; IEEE TIP; Applied Intelligence.
-+ *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; CHIL 2025; MICCAI 2025; ICLR 2025 Workshop (AI4CHL, XAI4Science); ACM MM 2025; NeurIPS 2025.
   
 # 🎣 Activities
 - *2025.04.24*, Attended the ICLR 2025 in Singapore. [Photo](https://img.erpweb.eu.org/imgs/2025/04/a419bf12012c5321.jpg)
