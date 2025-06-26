@@ -22,6 +22,7 @@ I am very fortunate to work as a research assistant at [Birth Lab](https://birth
 
 I am mentored by PhD student [Mingxuan Liu](http://arktis2022.github.io) at Birth Lab.
 
+**I am currently looking for PhD/Mphil positions, please feel free to contact me via email if interested.**
 Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../images/wechat.jpg) 
 
 # 🔥 News
