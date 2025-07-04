@@ -18,7 +18,7 @@ redirect_from:
 
 I am a third-year undergraduate student from [Weixian College](https://www.wxc.tsinghua.edu.cn) and [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes AI for Neuroscience, Medical Image Analysis.
 
-I am very fortunate to work as a research assistant at [Birth Lab](https://birthlab.github.io/) led by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) from School of Biomedical Engineering, Tsinghua University. 
+I am very fortunate to work as a research assistant at [Birth Lab](https://birthlab.github.io/) led by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) from School of Biomedical Engineering, Tsinghua University. I am currently working as a visiting student in [Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the guidance of [Prof. Anqi QIU](https://www.polyu.edu.hk/hti/people/academic-staff/prof-qiu-anqi/?sc_lang=en)
 
 I am mentored by PhD student [Mingxuan Liu](http://arktis2022.github.io) at Birth Lab.
 
@@ -59,8 +59,8 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
 
 # 🎖 Honors and Awards
 
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/de4438e28228284b.jpg) *2025* **First Prize for Medical Image Processing Course(Top 1)**<br /> &nbsp; &nbsp; &nbsp; *Course PI: Prof. Guangzhi Wang, Prof. Qiyuan Tian, School of Biomedical Engineering, Tsinghua University*
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/8593b53040f7c593.jpg) *2023* **Comprehensive Scholarship for Excellence**, Weixian College, Tsinghua University(**Top 20%**)
+- [[Certificate]] *2025* **First Prize for Medical Image Processing Course(Top 1)**<br /> &nbsp; &nbsp; &nbsp; *Course PI: Prof. Guangzhi Wang, Prof. Qiyuan Tian, School of Biomedical Engineering, Tsinghua University*
+- [[Certificate]] *2023* **Comprehensive Scholarship for Excellence**, Weixian College, Tsinghua University(**Top 20%**)
 
 # 📖 Educations
 - *2022.09 – Present*, Undergraduate student: **Weixian College** and **School of Biomedical Engineering**, Tsinghua University, China.
@@ -77,5 +77,5 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
 - *2025.5 - 2025.5* 2025 Tsinghua-Pennsylvania Youth Dialogue **(Chinese Delegate)**
 
 # 🔗 LINKS
-BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)<br>
+BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)<br>Yifei Chen: [School of Biomedical Engineering, Tsinghua University](https://justlfc03.github.io/) <br>Yingqi Hao: [School of Biomedical Engineering, Tsinghua University](https://yingqihao2022.github.io/)<br>Jialan Zheng: [School of Biomedical Engineering, Tsinghua University](https://zjl21.github.io/)<br>Xuguang Bai: [School of Biomedical Engineering, Tsinghua University](https://jasonw375.github.io/)
 
