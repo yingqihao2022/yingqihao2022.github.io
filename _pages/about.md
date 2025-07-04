@@ -70,9 +70,9 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
 
 # 🎣 International Activities
 
-- *2024.1 - 2024.2* [[Photo]] (https://mmbiz.qpic.cn/mmbiz_png/NFwvoCQrBS3XibOTKPBrmgHiaz7oPy4lHcaaQmMzbNOCiahgqPSTkG8uEM7OW57KicspS738NMMqJhCDwfvcJXLibRw/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1) [Website](https://mp.weixin.qq.com/s/UjnmYCe5FVo9zuaJGqUVuQ) Tsinghua Social Practice Team to Saudi Arabia **(Associate Team Leader)**
+- *2024.1 - 2024.2* [[Photo]] (https://mmbiz.qpic.cn/mmbiz_png/NFwvoCQrBS3XibOTKPBrmgHiaz7oPy4lHcaaQmMzbNOCiahgqPSTkG8uEM7OW57KicspS738NMMqJhCDwfvcJXLibRw/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1)[Website](https://mp.weixin.qq.com/s/UjnmYCe5FVo9zuaJGqUVuQ) Tsinghua Social Practice Team to Saudi Arabia **(Associate Team Leader)**
 - *2024.2 - 2024.2* [[Website]](https://mp.weixin.qq.com/s/whRCHSD-nI3HKqaMYQm6Cg) Weixian College Social Practice Team to Wuhan **(Team Leader)**
-- *2024.7 - 2024.8* [[Photo]](https://mmbiz.qpic.cn/mmbiz_jpg/NFwvoCQrBS0WJsQL1AREYeSzte8kJ57rplBMyN87o0Y9KGyxiaRrUaVbmAtY03Vhg51qkEXjq1PvaUufuRkNGxw/640?wx_fmt=jpeg&tp=wxpic&wxfrom=5&wx_lazy=1) [[Website]](https://mp.weixin.qq.com/s/TfvUAdPpzz1NpRH7a9xEfg) Tsinghua Social Practice Team to the United States **(Team Member)**
+- *2024.7 - 2024.8* [[Photo]](https://mmbiz.qpic.cn/mmbiz_jpg/NFwvoCQrBS0WJsQL1AREYeSzte8kJ57rplBMyN87o0Y9KGyxiaRrUaVbmAtY03Vhg51qkEXjq1PvaUufuRkNGxw/640?wx_fmt=jpeg&tp=wxpic&wxfrom=5&wx_lazy=1)[[Website]](https://mp.weixin.qq.com/s/TfvUAdPpzz1NpRH7a9xEfg) Tsinghua Social Practice Team to the United States **(Team Member)**
 - *2025.3 - 2025.5* [[Photo]](https://mmbiz.qpic.cn/sz_mmbiz_jpg/MU9UrvQv4ZOvia4qJk1SwjJhgMBX4jRfD7sCzVwgNRCP4T8OFLiaFT2CWshcMWqGA0EQib0zUCeAR3iaIL7jkmJhxA/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1)[[Website]](https://mp.weixin.qq.com/s/-r4dnoztD2FWTi4ZyQ0_dA)2025 Tsinghua-Georgetown Youth Dialogue: The Future of U.S.- China Relations **(Chinese Delegate)**
 - *2025.5 - 2025.5* [[Photo]](https://mmbiz.qpic.cn/sz_mmbiz_jpg/MU9UrvQv4ZORPZNLLPmU69ZQIgqW3xq5aexFC7jVIJoltIkNtFxFgrd1Dfoeyl0tqgegkCTlOrKmWvoAia3xM0A/640?wx_fmt=jpeg&from=appmsg&wxfrom=5&wx_lazy=1&tp=wxpic)[[Website]](https://mp.weixin.qq.com/s/w7XQRSPh16Pb1ICginyn0w)2025 Tsinghua-Pennsylvania Youth Dialogue **(Chinese Delegate)**
 
