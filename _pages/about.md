@@ -77,5 +77,5 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
 - *2025.5 - 2025.5* 2025 Tsinghua-Pennsylvania Youth Dialogue **(Chinese Delegate)**
 
 # 🔗 LINKS
-BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)<br>Yifei Chen: [School of Biomedical Engineering, Tsinghua University](https://justlfc03.github.io/) <br>Jialan Zheng: [School of Biomedical Engineering, Tsinghua University](https://zjl21.github.io/)<br>Xuguang Bai: [School of Biomedical Engineering, Tsinghua University](https://jasonw375.github.io/)
+BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)<br>Yifei Chen: [School of Biomedical Engineering, Tsinghua University](https://justlfc03.github.io/) <br>Jialan Zheng: [School of Biomedical Engineering, Tsinghua University](https://zjl21.github.io/)<br>Xuguang Bai: [School of Biomedical Engineering, Tsinghua University](https://jasonw375.github.io/)<br>Haoxiang Li:[School of Biomedical Engineering, Tsinghua University](https://lihaoxiang-20.github.io/)
 
