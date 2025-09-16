@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year undergraduate student from [Weixian College](https://www.wxc.tsinghua.edu.cn) and [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes AI for Neuroscience, Medical Image Analysis.
+I am a fourth-year undergraduate student from [Weixian College](https://www.wxc.tsinghua.edu.cn) and [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes AI for Neuroscience, Medical Image Analysis.
 
 I am very fortunate to work as a research assistant at [Birth Lab](https://birthlab.github.io/) led by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) from School of Biomedical Engineering, Tsinghua University. I am currently working as a visiting student in [Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the guidance of Prof. [Anqi QIU](https://www.polyu.edu.hk/hti/people/academic-staff/prof-qiu-anqi/?sc_lang=en).
 
@@ -27,6 +27,8 @@ I am mentored by PhD student [Mingxuan Liu](http://arktis2022.github.io) at Birt
 Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../images/wechat.jpg) 
 
 # 🔥 News
+**2025.09.10:** 🎉🎉 Our work ranked Top 3 for [AutoPET IV Challenge](https://autopet-iv.grand-challenge.org/) and will present at MICCAI 2025.
+
 **2025.05.02:** 🎉🎉 Our short paper has been accepted by [MIDL 2025](https://2025.midl.io/).
 
 **2025.02.12:** 🎉🎉 Our paper has been accepted by [OHBM 2025](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229).
