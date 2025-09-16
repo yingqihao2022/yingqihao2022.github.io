@@ -37,23 +37,37 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
 
 #### CONFERENCE PAPERS
 <ol reversed>
-  <li id="CA-Pub0"> 
+  <li id="C3"> 
     <span style="color:#000000; font-weight:bold;">Comprehensive Evaluation of Unsupervised Image Enhancement for Volumetric Fetal Brain MRI</span> <br>
     <a href="https://openreview.net/forum?id=RY54DHewSk">[Paper]</a> <a href="https://github.com/yingqihao2022/FetalBrainEnhancement">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Mingxuan Liu#, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
-    <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
+    <i>Medical Imaging with Deep Learning <strong>(MIDL)</strong>. </i> 2025. (Poster)
+  </li>
+
+  <li id="C2"> 
+    <span style="color:#000000; font-weight:bold;">Unsupervised Anomaly Detection for Fetal Brain MRI using Two-Stage Denoising Autoencoder (&#x3C9;-DAE)</span> <br>
+    <a href="https://hal.science/hal-04974207">[Paper]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Yingqi Hao</span>, Mingxuan Liu, Juncheng Zhu, Hongjia Yang, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
+    <i>OHBM Annual Meeting <strong>(OHBM)</strong>. </i> 2025. (Poster)
+  </li>
+
+  <li id="C1"> 
+    <span style="color:#000000; font-weight:bold;">autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT</span> <br>
+    <a href="https://arxiv.org/abs/2509.02402">[Paper]</a> <br>
+    Junwei Huang, <span style="color:#b02418; font-weight:bold;">Yingqi Hao</span>, Yitong Luo, Ziyu Wang, Mingxuan Liu, Yifei Chen, Yuanhan Wang, Lei Xiang, Qiyuan Tian <br>
+    <i>arXiv preprint</i>, 2025.
   </li>
 </ol>
 
-#### CONFERENCE ABSTRACTS
-<ol reversed>
-  <li id="CA-Pub0"> 
-    <span style="color:#000000; font-weight:bold;">Unsupervised Anomaly Detection for Fetal Brain MRI using Two-Stage Denoising Autoencoder (&#x3C9;-DAE)</span> <br>
-    <span style="color:#b02418; font-weight:bold;">Yingqi Hao</span>, Mingxuan Liu, Juncheng Zhu, Hongjia Yang, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
-    <a href="https://hal.science/hal-04974207">[Paper]</a> <br> 
-    <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster)
-  </li>
 
+#### JOURNAL PAPERS
+<ol reversed>
+  <li id="J1"> 
+    <span style="color:#000000; font-weight:bold;">PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI</span> <br>
+    <a href="https://arxiv.org/abs/2405.12345">[arXiv]</a> <br>
+    <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Mingxuan Liu#, Juncheng Zhu, Hongjia Yang, Haoxiang Li, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
+    <i>Radiology: Artificial Intelligence</i>. (Under Review)
+  </li>
 </ol>
 
 
