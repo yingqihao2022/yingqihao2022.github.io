@@ -73,7 +73,7 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
 
   <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty</span> <br>
-    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#, Yi Liao#, Haoxiang Li, Juncheng Zhu, Hongjia Yang, Yingqi Hao</span>, Haibo Qu*, Qiyuan Tian<br> 
+     Mingxuan Liu#, Yi Liao#, Haoxiang Li, Juncheng Zhu, Hongjia Yang, <span style="color:#b02418;font-weight:bold;"> Yingqi Hao</span>, Haibo Qu*, Qiyuan Tian<br> 
     <i>Medical Image Analysis <strong>(MIA). </strong></i> 2025. (Under Review)
   </li>
 </ol>
