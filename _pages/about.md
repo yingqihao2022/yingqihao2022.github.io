@@ -68,7 +68,6 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI</span> <br>
     <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Mingxuan Liu#, Juncheng Zhu, Hongjia Yang, Haoxiang Li, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
-    <a href="https://arxiv.org/abs/2405.12345">[arXiv]</a> <br> 
     <i> Radiology: Artificial Intelligence. </i> (Under Review)
   </li>
 
