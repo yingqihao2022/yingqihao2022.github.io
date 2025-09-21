@@ -57,6 +57,7 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
     <span style="color:#000000; font-weight:bold;">autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT</span> <br>
     Junwei Huang, <span style="color:#b02418; font-weight:bold;">Yingqi Hao</span>, Yitong Luo, Ziyu Wang, Mingxuan Liu, Yifei Chen, Yuanhan Wang, Lei Xiang, Qiyuan Tian <br>
     <a href="https://arxiv.org/abs/2509.02402">[Paper]</a> <br> 
+    <a href="https://github.com/huang-jw22/autoPET-4-submission">[Code]</a> <br> 
     <i> arXiv preprint. </i> 2025.
   </li>
 </ol>
@@ -70,8 +71,13 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
     <a href="https://arxiv.org/abs/2405.12345">[arXiv]</a> <br> 
     <i> Radiology: Artificial Intelligence. </i> (Under Review)
   </li>
-</ol>
 
+  <li id="MA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty</span> <br>
+    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yi Liao#, Haoxiang Li, Juncheng Zhu, Hongjia Yang, Yingqi Hao, Haibo Qu*, Qiyuan Tian<br> 
+    <i>Medical Image Analysis <strong>(MIA). </strong></i> 2025. (Under Review)
+  </li>
+</ol>
 
 # 🎖 Honors and Awards
 
@@ -93,4 +99,4 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
 - *2025.5 - 2025.5* [[Website]](https://mp.weixin.qq.com/s/w7XQRSPh16Pb1ICginyn0w) 2025 Tsinghua-Pennsylvania Youth Dialogue **(Chinese Delegate)**
 
 # 🔗 LINKS
-BIRTH Lab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)<br>Yifei Chen: [School of Biomedical Engineering, Tsinghua University](https://justlfc03.github.io/) <br>Jialan Zheng: [School of Biomedical Engineering, Tsinghua University](https://zjl21.github.io/)<br>Xuguang Bai: [School of Biomedical Engineering, Tsinghua University](https://jasonw375.github.io/)<br>Haoxiang Li:[School of Biomedical Engineering, Tsinghua University](https://lihaoxiang-20.github.io/)<br>Yijin Li:[School of Biological Science and Medical Engineering, Beihang University](https://liyijin6815.github.io/)
+BIRTH Lab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br> Prof. Anqi QIU: [Hong Kong Polytechnic University](https://github.com/huang-jw22/autoPET-4-submission) <br>Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)<br>Yifei Chen: [School of Biomedical Engineering, Tsinghua University](https://justlfc03.github.io/) <br>Jialan Zheng: [School of Biomedical Engineering, Tsinghua University](https://zjl21.github.io/)<br>Xuguang Bai: [School of Biomedical Engineering, Tsinghua University](https://jasonw375.github.io/)<br>Haoxiang Li:[School of Biomedical Engineering, Tsinghua University](https://lihaoxiang-20.github.io/)<br>Yijin Li:[School of Biological Science and Medical Engineering, Beihang University](https://liyijin6815.github.io/) 
