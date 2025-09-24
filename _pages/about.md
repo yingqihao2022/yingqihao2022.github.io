@@ -24,7 +24,7 @@ I am mentored by PhD student [Mingxuan Liu](http://arktis2022.github.io) at Birt
 
 **I am currently looking for 26 Fall PhD/Mphil positions, please feel free to contact me via email if interested.**
 
-Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../images/wechat.jpg) 
+Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66XBKyyI-f6WO/view?usp=sharing) / [Google Scholar](https://scholar.google.com/citations?user=9Skm7EgAAAAJ&hl=en&oi=ao) / [Wechat](../images/wechat.jpg) 
 
 # 🔥 News
 **2025.09.10:** 🎉🎉 Our work ranked Top 3 for [AutoPET IV Challenge](https://autopet-iv.grand-challenge.org/) and will present at MICCAI 2025.
@@ -56,8 +56,7 @@ Other related links: [Github](https://github.com/yingqihao2022) / [Wechat](../im
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT</span> <br>
     Junwei Huang, <span style="color:#b02418; font-weight:bold;">Yingqi Hao</span>, Yitong Luo, Ziyu Wang, Mingxuan Liu, Yifei Chen, Yuanhan Wang, Lei Xiang, Qiyuan Tian <br>
-    <a href="https://arxiv.org/abs/2509.02402">[Paper]</a> <br> 
-    <a href="https://github.com/huang-jw22/autoPET-4-submission">[Code]</a> <br> 
+    <a href="https://arxiv.org/abs/2509.02402">[Paper]</a> <a href="https://github.com/huang-jw22/autoPET-4-submission">[Code]</a> <br> 
     <i> arXiv preprint. </i> 2025.
   </li>
 </ol>
