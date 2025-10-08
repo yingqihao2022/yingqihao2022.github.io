@@ -27,7 +27,7 @@ I am mentored by PhD student [Mingxuan Liu](http://arktis2022.github.io) at Birt
 Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66XBKyyI-f6WO/view?usp=sharing) / [Google Scholar](https://scholar.google.com/citations?user=9Skm7EgAAAAJ&hl=en&oi=ao) / [Wechat](../images/wechat.jpg) 
 
 # 🔥 News
-**2025.09.10:** 🎉🎉 Our work ranked Top 3 for [AutoPET IV Challenge](https://autopet-iv.grand-challenge.org/) and will present at MICCAI 2025.
+**2025.09.10:** 🎉🎉 Our work won the championship for [AutoPET IV Challenge](https://autopet-iv.grand-challenge.org/) and presented at MICCAI 2025.
 
 **2025.05.02:** 🎉🎉 Our short paper has been accepted by [MIDL 2025](https://2025.midl.io/).
 
@@ -79,7 +79,7 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
 
 # 🎖 Awards and Fundings
 
-- *2023* **Tsinghua Start-up Research Funding for Undergraduate**, Tsinghua University(**B level, 15000RMB**)
+- *2025* **Tsinghua Start-up Research Funding for Undergraduate**, Tsinghua University(**B level, 15000RMB**)
 - *2025* **First Prize for Medical Image Processing Course(Top 1)** <br /> &nbsp; &nbsp; &nbsp; *Course PI: Prof. [Guangzhi Wang](https://scholar.google.com/citations?user=riUAC6kAAAAJ&hl=zh-CN), Prof. [Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm), School of Biomedical Engineering, Tsinghua University*
 - *2023* **Comprehensive Scholarship for Excellence**, Weixian College, Tsinghua University(**Top 20%, 10000RMB**)
 
