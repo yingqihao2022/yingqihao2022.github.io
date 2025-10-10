@@ -79,9 +79,10 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
 
 # 🎖 Awards and Fundings
 
+- *2025* **Comprehensive Scholarship for Excellence in Tsinghua University**,(**Top 10%, 10000RMB**)
 - *2025* **Tsinghua Start-up Research Funding for Undergraduate**, Tsinghua University(**B level, 15000RMB**)
 - *2025* **First Prize for Medical Image Processing Course(Top 1)** <br /> &nbsp; &nbsp; &nbsp; *Course PI: Prof. [Guangzhi Wang](https://scholar.google.com/citations?user=riUAC6kAAAAJ&hl=zh-CN), Prof. [Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm), School of Biomedical Engineering, Tsinghua University*
-- *2023* **Comprehensive Scholarship for Excellence**, Weixian College, Tsinghua University(**Top 20%, 10000RMB**)
+- *2023* **Comprehensive Scholarship for Excellence in Weixian College, Tsinghua University**,(**Top 10%-20%, 10000RMB**)
 
 # 📖 Educations
 - *2022.09 – Present*, Undergraduate student: **Weixian College** and **School of Biomedical Engineering**, Tsinghua University, China.
