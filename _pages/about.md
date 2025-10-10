@@ -28,7 +28,7 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
 
 # 🔥 News
 
-**2025.09.10:** 🎉🎉 I won the comprehensive scholarship for excellence at Tsinghua University. **(Top 10%, 10000RMB)**
+**2025.10.10:** 🎉🎉 I won the comprehensive scholarship for excellence at Tsinghua University. **(Top 10%, 10000RMB)**
 
 **2025.09.10:** 🎉🎉 Our work won the championship for [AutoPET IV Challenge](https://autopet-iv.grand-challenge.org/) and presented at MICCAI 2025.
 
