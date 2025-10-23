@@ -28,7 +28,7 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
 
 # 🔥 News
 
-**2025.10.10:** 🎉🎉 I won the comprehensive scholarship for excellence at Tsinghua University. **(Top 10%, 10000RMB)**
+**2025.10.10:** 🎉🎉 I won the comprehensive scholarship for excellence at Tsinghua University. **(Rank 8/117, 15000RMB)**
 
 **2025.09.10:** 🎉🎉 Our work won the championship for [AutoPET IV Challenge](https://autopet-iv.grand-challenge.org/) and presented at MICCAI 2025.
 
@@ -70,20 +70,20 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI</span> <br>
     <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Mingxuan Liu#, Juncheng Zhu, Hongjia Yang, Haoxiang Li, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
-    <i> Radiology: Artificial Intelligence. </i> (Under Review)
+    <i> Radiology: Artificial Intelligence. </i> (Under Peer Review)
   </li>
 
   <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty</span> <br>
      Mingxuan Liu#, Yi Liao#, Haoxiang Li, Juncheng Zhu, Hongjia Yang, <span style="color:#b02418;font-weight:bold;"> Yingqi Hao</span>, Haibo Qu*, Qiyuan Tian<br> 
-    <i>Medical Image Analysis <strong>(MIA). </strong></i> 2025. (Under Review)
+    <i>Medical Image Analysis <strong>(MIA). </strong></i> 2025. (Under Revision)
   </li>
 </ol>
 
 # 🎖 Awards and Fundings
 
-- *2025* **Comprehensive Scholarship for Excellence in Tsinghua University**,(**Top 10%, 10000RMB**)
-- *2025* **Tsinghua Start-up Research Funding for Undergraduate**, Tsinghua University(**B level, 15000RMB**)
+- *2025* **Comprehensive Scholarship for Excellence in Tsinghua University**,(**Rank 8/117, 15000RMB**)
+- *2025* **Tsinghua Start-up Research Funding for Undergraduate**, Tsinghua University(**B level, 15000RMB Funding**)
 - *2025* **First Prize for Medical Image Processing Course(Top 1)** <br /> &nbsp; &nbsp; &nbsp; *Course PI: Prof. [Guangzhi Wang](https://bme.tsinghua.edu.cn/info/1068/1045.htm), Prof. [Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm), School of Biomedical Engineering, Tsinghua University*
 - *2023* **Comprehensive Scholarship for Excellence in Weixian College, Tsinghua University**,(**Top 10%-20%, 10000RMB**)
 
