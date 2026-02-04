@@ -69,6 +69,13 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
 
 #### JOURNAL PAPERS
 <ol reversed>
+  
+  <li id="CA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">Development and validation of an annotation-free deep learning framework for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI: a retrospective multicentre cohort study</span> <br>
+    Mingxuan Liu#, <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Yi Liao#, Juncheng Zhu, Haoxiang Li, Hongjia Yang, ...,  Gang Ning, Haibo Qu*, Qiyuan Tian* <br>
+    <i> eClinicalMedicine. </i> (Under Review)
+  </li>
+
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI</span> <br>
     <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Mingxuan Liu#, Juncheng Zhu, Hongjia Yang, Haoxiang Li, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
