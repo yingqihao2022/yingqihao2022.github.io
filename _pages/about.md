@@ -16,9 +16,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year undergraduate student from [Weixian College](https://www.wxc.tsinghua.edu.cn) and [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes AI for Neuroscience, Medical Image Analysis.
+I am a senior undergraduate student from [Weixian College](https://www.wxc.tsinghua.edu.cn) and [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My current research interest includes AI for Neuroscience, Medical Image Analysis.
 
-I am very fortunate to work as a research assistant at [Birth Lab](https://birthlab.github.io/) led by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) from School of Biomedical Engineering, Tsinghua University. I was previously working as a visiting student with Prof. [Anqi Qiu](https://www.polyu.edu.hk/hti/people/academic-staff/prof-qiu-anqi/?sc_lang=en).
+I am very fortunate to work as a research assistant at [Birth Lab](https://birthlab.github.io/) led by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) from School of Biomedical Engineering, Tsinghua University. I was previously working as volunteer(no stipend) RA with Prof. [Anqi Qiu](https://www.polyu.edu.hk/hti/people/academic-staff/prof-qiu-anqi/?sc_lang=en).
 
 I am mentored by PhD student [Mingxuan Liu](http://arktis2022.github.io) at Birth Lab.
 
@@ -109,4 +109,4 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
 - *2025.5 - 2025.5* [[Website]](https://mp.weixin.qq.com/s/w7XQRSPh16Pb1ICginyn0w) 2025 Tsinghua-Pennsylvania Youth Dialogue **(Chinese Delegate)**
 
 # 🔗 LINKS
-BIRTH Lab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br> Anqi Qiu): [Hong Kong Polytechnic University](https://sites.google.com/view/anqi-qui/home?authuser=0) <br>Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)<br>Yifei Chen: [School of Biomedical Engineering, Tsinghua University](https://justlfc03.github.io/)<br>Haowen Pang: [Beijing Institute of Technology](https://panghaowen-hub.github.io/) <br>Jialan Zheng: [School of Biomedical Engineering, Tsinghua University](https://zjl21.github.io/)<br>Xuguang Bai: [School of Biomedical Engineering, Tsinghua University](https://jasonw375.github.io/)<br>Yijin Li:[School of Biological Science and Medical Engineering, Beihang University](https://liyijin6815.github.io/)
+BIRTH Lab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Mingxuan Liu: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)<br>Dr. Pengli Zhu[Hong Kong](https://pengli-zhu.github.io/)<br>Yifei Chen: [School of Biomedical Engineering, Tsinghua University](https://justlfc03.github.io/)<br>Haowen Pang: [Beijing Institute of Technology](https://panghaowen-hub.github.io/) <br>Jialan Zheng: [School of Biomedical Engineering, Tsinghua University](https://zjl21.github.io/)<br>Xuguang Bai: [School of Biomedical Engineering, Tsinghua University](https://jasonw375.github.io/)<br>Yijin Li:[School of Biological Science and Medical Engineering, Beihang University](https://liyijin6815.github.io/) <br>Prof. Anqi Qiu: [Hong Kong Polytechnic University](https://sites.google.com/view/anqi-qui/home?authuser=0)
