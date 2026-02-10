@@ -62,7 +62,7 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
 
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Diffusion MRI-guided Infant Brain MRI Tissue Contrast Enhancement through Image Translation</span> <br>
-    <span style="color:#b02418; font-weight:bold;">Yingqi Hao</span>, Haoxiang Jiang, Anqi Qiu
+    <span style="color:#b02418; font-weight:bold;">Yingqi Hao</span>, Haoxiang Jiang, Anqi Qiu <br>
     <i> ISMRM/ISMRT </i> 2026 (Oral).
   </li>
 
