@@ -28,6 +28,8 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
 
 # 🔥 News
 
+**2026.2.9:** 🎉🎉 One co-author work OR-KAN accepted by Medical Image Analysis.
+
 **2026.2.4:** 🎉🎉 Two abstracts have been accepted by ISMRM/ISMRT 2026, one as oral. Three co-authors abstracts accepted.
 
 **2025.10.10:** 🎉🎉 I won the comprehensive scholarship for excellence at Tsinghua University. **(Rank 8/117, 15000RMB)**
@@ -85,7 +87,7 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
   <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty</span> <br>
      Mingxuan Liu#, Yi Liao#, Haoxiang Li, Juncheng Zhu, Hongjia Yang, <span style="color:#b02418;font-weight:bold;"> Yingqi Hao</span>, Haibo Qu*, Qiyuan Tian<br> 
-    <i>Medical Image Analysis <strong>(MIA). </strong></i> 2025. (Under Revision)
+    <i>Medical Image Analysis <strong>(MIA). </strong></i> 2026. 
   </li>
 </ol>
 
