@@ -28,6 +28,8 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
 
 # 🔥 News
 
+**2026.2.12:** 🎉🎉 Three co-author works accepted by OHBM 2026.
+
 **2026.2.9:** 🎉🎉 One co-author work OR-KAN accepted by Medical Image Analysis.
 
 **2026.2.4:** 🎉🎉 Two abstracts have been accepted by ISMRM/ISMRT 2026, one as oral. Three co-authors abstracts accepted.
