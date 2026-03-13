@@ -48,36 +48,34 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
 
 #### CONFERENCE PAPERS
 <ol reversed>
-  <li id="CA-Pub0"> 
+  <li id="CA-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Comprehensive Evaluation of Unsupervised Image Enhancement for Volumetric Fetal Brain MRI</span> <br>
     <a href="https://openreview.net/forum?id=RY54DHewSk">[Paper]</a> <a href="https://github.com/yingqihao2022/FetalBrainEnhancement">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Mingxuan Liu#, Hongjia Yang, Haoxiang Li, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
     <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
   </li>
 
-  <li id="CA-Pub0"> 
+  <li id="CA-Pub2"> 
     <span style="color:#000000; font-weight:bold;">FetMRIE: Unsupervised Fetal Brain MRI Image Enhancement with Anatomical Fidelity via Adaptive State-Matching Denoising Diffusion</span> <br>
     <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Yitong Luo#, Mingxuan Liu#, Hongjia Yang, ...,  Yi Liao, Haibo Qu*, Qiyuan Tian* <br>
-    <i> <strong>MICCAI. </i> 2026. (Under Review)
+    <i><strong>MICCAI.</strong></i> 2026. (Under Review)
   </li>
 
-  <li id="CA-Pub0"> 
+  <li id="CA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">Simple Baselines for Fetal Brain Unsupervised Anomaly Detection</span> <br>
-     Hongjia Yang#, Mingxuan Liu#,  <span style="color:#b02418;font-weight:bold;"> Yingqi Hao#</span>, Xiaotian Hu, Yijin Li, ... , Yi Liao, Haibo Qu*, Qiyuan Tian*<br> 
-    <i> </strong>MICCAI. </i> 2026. (Under Review) 
+     Hongjia Yang#, Mingxuan Liu#, <span style="color:#b02418;font-weight:bold;">Yingqi Hao#</span>, Xiaotian Hu, Yijin Li, ... , Yi Liao, Haibo Qu*, Qiyuan Tian*<br> 
+    <i><strong>MICCAI.</strong></i> 2026. (Under Review) 
   </li>
-  
 
-  <li id="CA-Pub0"> 
+  <li id="CA-Pub4"> 
     <span style="color:#000000; font-weight:bold;">Unsupervised Anomaly Detection for Fetal Brain MRI using Two-Stage Denoising Autoencoder (&#x3C9;-DAE)</span> <br>
     <span style="color:#b02418; font-weight:bold;">Yingqi Hao</span>, Mingxuan Liu, Juncheng Zhu, Hongjia Yang, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
     <a href="https://hal.science/hal-04974207">[Paper]</a> <br> 
     <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster)
   </li>
 
-  <li id="CA-Pub0"> 
-    <span style="color:#000000; font-weight:bold;">Diffusion MRI-guided Infant Brain MRI Tissue Contrast Enhancement through Image Translation</span> 
-<br>
+  <li id="CA-Pub5"> 
+    <span style="color:#000000; font-weight:bold;">Diffusion MRI-guided Infant Brain MRI Tissue Contrast Enhancement through Image Translation</span> <br>
     <span style="color:#b02418; font-weight:bold;">Yingqi Hao</span>, Haoxiang Jiang, Anqi Qiu <br>
     <i> ISMRM/ISMRT </i> 2026 (Oral).
   </li>
@@ -86,23 +84,23 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
 
 #### JOURNAL PAPERS
 <ol reversed>
-  
-  <li id="CA-Pub0"> 
+
+  <li id="JA-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Development and validation of an annotation-free deep learning framework for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI: a retrospective multicentre cohort study</span> <br>
     Mingxuan Liu#, <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Yi Liao#, Juncheng Zhu, Haoxiang Li, Hongjia Yang, ...,  Gang Ning, Haibo Qu*, Qiyuan Tian* <br>
     <i> The Lancet Medical Imaging & Theranostics. </i> (Under Peer Review)
   </li>
 
-  <li id="CA-Pub0"> 
+  <li id="JA-Pub2"> 
     <span style="color:#000000; font-weight:bold;">PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI</span> <br>
     <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Mingxuan Liu#, Juncheng Zhu, Hongjia Yang, Haoxiang Li, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
     <i> Imaging Neuroscience. </i> (Under Peer Review)
   </li>
 
-  <li id="MA-Pub0"> 
+  <li id="JA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty</span> <br>
      Mingxuan Liu#, Yi Liao#, Haoxiang Li, Juncheng Zhu, Hongjia Yang, <span style="color:#b02418;font-weight:bold;"> Yingqi Hao</span>, Haibo Qu*, Qiyuan Tian<br> 
-    <i> Medical Image Analysis <strong>(MIA).</i> 2026. 
+    <i> Medical Image Analysis <strong>(MIA).</strong></i> 2026. 
   </li>
 </ol>
 
