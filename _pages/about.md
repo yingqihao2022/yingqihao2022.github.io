@@ -76,13 +76,13 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
   </li>
 
   <li id="CA-Pub0"> 
-    <span style="color:#000000; font-weight:bold;">Diffusion MRI-guided Infant Brain MRI Tissue Contrast Enhancement through Image Translation</span> <br>
+    <span style="color:#000000; font-weight:bold;">Diffusion MRI-guided Infant Brain MRI Tissue Contrast Enhancement through Image Translation</span> 
+<br>
     <span style="color:#b02418; font-weight:bold;">Yingqi Hao</span>, Haoxiang Jiang, Anqi Qiu <br>
     <i> ISMRM/ISMRT </i> 2026 (Oral).
   </li>
 
 </ol>
-
 
 #### JOURNAL PAPERS
 <ol reversed>
@@ -102,7 +102,7 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
   <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty</span> <br>
      Mingxuan Liu#, Yi Liao#, Haoxiang Li, Juncheng Zhu, Hongjia Yang, <span style="color:#b02418;font-weight:bold;"> Yingqi Hao</span>, Haibo Qu*, Qiyuan Tian<br> 
-    <i>Medical Image Analysis <strong>(MIA). </strong></i> 2026. 
+    <i> Medical Image Analysis <strong>(MIA).</i> 2026. 
   </li>
 </ol>
 
