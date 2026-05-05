@@ -16,13 +16,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student from [Weixian College](https://www.wxc.tsinghua.edu.cn) and [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My current research interest includes AI for Neuroscience, Medical Image Analysis.
+I am a senior undergraduate student from [Weixian College](https://www.wxc.tsinghua.edu.cn) and [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My current research interest includes AI for Neuroscience, Medical Image Analysis, Medical Foundation Models.
 
 I am very fortunate to work as a research assistant at [Birth Lab](https://birthlab.github.io/) led by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) from School of Biomedical Engineering, Tsinghua University. I was previously working as volunteer(no stipend) RA with Prof. [Anqi Qiu](https://www.polyu.edu.hk/hti/people/academic-staff/prof-qiu-anqi/?sc_lang=en).
 
 I am mentored by PhD student [Mingxuan Liu](http://arktis2022.github.io) at Birth Lab.
-
-**I am currently looking for 26 Fall PhD/Mphil positions, please feel free to contact me via email if interested.**
 
 Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66XBKyyI-f6WO/view?usp=sharing) / [Google Scholar](https://scholar.google.com/citations?user=9Skm7EgAAAAJ&hl=en&oi=ao) / [Wechat](../images/wechat.jpg) 
 
@@ -34,7 +32,7 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
 
 **2026.2.4:** 🎉🎉 Two abstracts have been accepted by ISMRM/ISMRT 2026, one as oral. Three co-authors abstracts accepted.
 
-**2025.10.10:** 🎉🎉 I won the comprehensive scholarship for excellence at Tsinghua University. **(Rank 8/117, 15000RMB)**
+**2025.10.10:** 🎉🎉 I was awarded the comprehensive scholarship for excellence at Tsinghua University. **(Rank 8/117, 15000RMB)**
 
 **2025.09.10:** 🎉🎉 Our work won the championship for [AutoPET IV Challenge](https://autopet-iv.grand-challenge.org/) and presented at MICCAI 2025.
 
