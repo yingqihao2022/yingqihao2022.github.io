@@ -53,12 +53,6 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
     <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
   </li>
 
-  <li id="CA-Pub2"> 
-    <span style="color:#000000; font-weight:bold;">FetMRIE: Unsupervised Fetal Brain MRI Image Enhancement with Anatomical Fidelity via Adaptive State-Matching Denoising Diffusion</span> <br>
-    <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Yitong Luo#, Mingxuan Liu#, Hongjia Yang, ...,  Yi Liao, Haibo Qu*, Qiyuan Tian* <br>
-    <i><strong>MICCAI.</strong></i> 2026. (Under Review)
-  </li>
-
   <li id="CA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">Simple Baselines for Fetal Brain Unsupervised Anomaly Detection</span> <br>
      Hongjia Yang#, Mingxuan Liu#, <span style="color:#b02418;font-weight:bold;">Yingqi Hao#</span>, Xiaotian Hu, Yijin Li, ... , Yi Liao, Haibo Qu*, Qiyuan Tian*<br> 
@@ -86,7 +80,7 @@ Other related links: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66
   <li id="JA-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Development and validation of an annotation-free deep learning framework for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI: a retrospective multicentre cohort study</span> <br>
     Mingxuan Liu#, <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Yi Liao#, Juncheng Zhu, Haoxiang Li, Hongjia Yang, ...,  Gang Ning, Haibo Qu*, Qiyuan Tian* <br>
-    <i> The Lancet Medical Imaging & Theranostics. </i> (Under Peer Review)
+    <i> Radiology. </i> (Under Peer Review)
   </li>
 
   <li id="JA-Pub2"> 
