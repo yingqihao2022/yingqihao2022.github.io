@@ -18,7 +18,7 @@ redirect_from:
 
 I am a senior undergraduate student from [Weixian College](https://www.wxc.tsinghua.edu.cn) and [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My current research interest includes AI for Neuroscience, Medical Image Analysis, Medical Foundation Models.
 
-I am very fortunate to work as a research assistant at [Birth Lab](https://birthlab.github.io/) led by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) from School of Biomedical Engineering, Tsinghua University. I was previously working as volunteer(no stipend) RA with Prof. [Anqi Qiu](https://www.polyu.edu.hk/hti/people/academic-staff/prof-qiu-anqi/?sc_lang=en).
+I am very fortunate to work as a research assistant at [Birth Lab](https://birthlab.github.io/) led by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) from School of Biomedical Engineering, Tsinghua University. I was previously working as RA with Prof. [Anqi Qiu](https://www.polyu.edu.hk/hti/people/academic-staff/prof-qiu-anqi/?sc_lang=en).
 
 I am mentored by PhD student [Mingxuan Liu](http://arktis2022.github.io) at Birth Lab.
 
