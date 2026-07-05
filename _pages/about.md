@@ -52,13 +52,13 @@ Know more about me from: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJ
   <li id="JA-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Development and validation of an annotation-free deep learning framework for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI: a retrospective multicentre cohort study</span> <br>
     Mingxuan Liu#, <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Yi Liao#, Juncheng Zhu, Haoxiang Li, Hongjia Yang, ..., Gang Ning, Haibo Qu*, Qiyuan Tian* <br>
-    <i> Medical Image Analysis <strong>(MIA).</strong></i> (Under Review)
+    <i> Medical Image Analysis <strong>(MedIA).</strong></i> (Under Review)
   </li>
 
   <li id="JA-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Development and validation of a deep learning model for fetal brain magnetic resonance image enhancement without clean reference: a multi-center study</span> <br>
     <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Mingxuan Liu#, Yi Liao, Yitong Luo, ..., Haibo Qu*, Qiyuan Tian* <br>
-    <i> (Under Review) </i>
+    <i> Radiology: Artificial Intelligence <strong>(RYAI).</strong></i> (Under Review)
   </li>
 
   <li id="JA-Pub3"> 
