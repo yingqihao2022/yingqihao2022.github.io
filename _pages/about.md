@@ -63,7 +63,7 @@ Know more about me from: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJ
 
   <li id="JA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI</span> <br>
-    <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Mingxuan Liu#, Juncheng Zhu#, Hongjia Yang, Haoxiang Li, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
+    <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Mingxuan Liu#, Juncheng Zhu#, Hongjia Yang, Haoxiang Li, Yi Liao, Haibo Qu*, Qiyuan Tian* <br>
     <i> Imaging Neuroscience. </i> 2026.
   </li>
 
