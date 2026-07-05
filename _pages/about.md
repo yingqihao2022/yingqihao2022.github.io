@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PhD student at the [Department of Engineering Science](https://eng.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/), supervised by [Prof. Alison Noble](https://eng.ox.ac.uk/people/alison-noble/) and [Dr. Cheng Ouyang](http://cheng-01037.github.io). I received my Bachelor's degree from [Weixian College](https://www.wxc.tsinghua.edu.cn) and [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). During my undergraduate studies, I was fortunate to be supervised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) at [Birth Lab](https://birthlab.github.io/), and worked closely with PhD student [Mingxuan Liu](http://arktis2022.github.io).
+I am an incoming PhD student at the [Department of Engineering Science](https://eng.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/), supervised by [Prof. Alison Noble](https://eng.ox.ac.uk/people/alison-noble/) and [Dr. Cheng Ouyang](http://cheng-01037.github.io). I received my Bachelor's degree from [Weixian College](https://www.wxc.tsinghua.edu.cn) and [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). During my undergraduate studies, I was supervised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) at [Birth Lab](https://birthlab.github.io/), and worked closely with PhD student [Mingxuan Liu](http://arktis2022.github.io).
 
 My research interests include medical agents, medical foundation models, fetal imaging and AI for neuroscience.
 
