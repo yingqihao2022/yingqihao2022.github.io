@@ -18,13 +18,15 @@ redirect_from:
 
 I am an incoming PhD student at the [Department of Engineering Science](https://eng.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/), supervised by [Prof. Alison Noble](https://eng.ox.ac.uk/people/alison-noble/) and [Dr. Cheng Ouyang](http://cheng-01037.github.io). I received my Bachelor's degree from [Weixian College](https://www.wxc.tsinghua.edu.cn) and [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). During my undergraduate studies, I was fortunate to be supervised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) at [Birth Lab](https://birthlab.github.io/), and worked closely with PhD student [Mingxuan Liu](http://arktis2022.github.io).
 
-My research interests include medical agents, medical foundation models, and AI for neuroscience.
+My research interests include medical agents, medical foundation models, fetal imaging and AI for neuroscience.
 
 Know more about me from: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66XBKyyI-f6WO/view?usp=sharing) / [Google Scholar](https://scholar.google.com/citations?user=9Skm7EgAAAAJ&hl=en&oi=ao) / [Wechat](../images/wechat.jpg) 
 
 # 🔥 News
 
 **2026.6.25:** 🎉🎉 I was awarded the Outstanding Undergraduate Thesis at Tsinghua University. **(1/40)**
+
+**2026.6.25:** 🎉🎉 One co-author work accepted by MICCAI 2026.
 
 **2026.6.9:** 🎉🎉 PANDA accepted by Imaging Neuroscience!
 
@@ -70,7 +72,7 @@ Know more about me from: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJ
   <li id="JA-Pub4"> 
     <span style="color:#000000; font-weight:bold;">Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty</span> <br>
      Mingxuan Liu#, Yi Liao#, Haoxiang Li, Juncheng Zhu, Hongjia Yang, <span style="color:#b02418;font-weight:bold;"> Yingqi Hao</span>, Haibo Qu*, Qiyuan Tian<br> 
-    <i> Medical Image Analysis <strong>(MIA).</strong></i> 2026. 
+    <i> Medical Image Analysis <strong>(MedIA).</strong></i> 2026. 
   </li>
 </ol>
 
