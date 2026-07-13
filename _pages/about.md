@@ -20,7 +20,11 @@ I am an incoming PhD student at the [Department of Engineering Science](https://
 
 My research interests include medical agents, medical foundation models, fetal imaging and AI for neuroscience.
 
+Email: yqhao2004@gmail.com (preferred), yingqi.hao@eng.ox.ac.uk (less frequent checked)
+
 Know more about me from: [CV](https://drive.google.com/file/d/1hHGHyEvIQ454GRFGJYp66XBKyyI-f6WO/view?usp=sharing) / [Google Scholar](https://scholar.google.com/citations?user=9Skm7EgAAAAJ&hl=en&oi=ao) / [Wechat](../images/wechat.jpg) 
+
+Feel free to reach out to me for possible collaborations!
 
 # 🔥 News
 
