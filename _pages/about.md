@@ -61,6 +61,7 @@ Feel free to reach out to me for possible collaborations!
     <span style="color:#000000; font-weight:bold;">Anatomy-preserving enhancement of fetal brain MRI without clean references</span> <br>
     <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Mingxuan Liu#, Yi Liao, Yitong Luo, ..., Haibo Qu*, Qiyuan Tian* <br>
     <i> Communications Biology </i> (In Revision)
+  </li>
 
   <li id="JA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI</span> <br>
