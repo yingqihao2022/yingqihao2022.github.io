@@ -75,7 +75,8 @@ Feel free to reach out to me for possible collaborations!
   </li>
 </ol>
 
-#### First Author Conference Papers
+#### FIRST AUTHOR CONFERENCE PAPERS
+
 <ol reversed>
   <li id="CA-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Comprehensive Evaluation of Unsupervised Image Enhancement for Volumetric Fetal Brain MRI</span> <br>
