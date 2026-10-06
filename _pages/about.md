@@ -32,21 +32,17 @@ Feel free to reach out to me for possible collaborations!
 
 **2026.6.25:** 🎉🎉 One co-author work accepted by MICCAI 2026.
 
-**2026.6.9:** 🎉🎉 PANDA accepted by Imaging Neuroscience!
+**2026.6.9:** 🎉🎉 One work accepted by Imaging Neuroscience.
 
-**2026.2.12:** 🎉🎉 Three co-author works accepted by OHBM 2026.
+**2026.2.9:** 🎉🎉 One co-author work accepted by Medical Image Analysis.
 
-**2026.2.9:** 🎉🎉 One co-author work OR-KAN accepted by Medical Image Analysis.
-
-**2026.2.4:** 🎉🎉 Two abstracts have been accepted by ISMRM/ISMRT 2026, one as oral. Three co-author abstracts accepted.
+**2026.2.4:** 🎉🎉 Two abstracts have been accepted by ISMRM/ISMRT 2026, one as oral. 
 
 **2025.10.10:** 🎉🎉 I was awarded the comprehensive scholarship for excellence at Tsinghua University. **(Rank 8/117, 15000RMB)**
 
 **2025.09.10:** 🎉🎉 Our work won the championship for [AutoPET IV Challenge](https://autopet-iv.grand-challenge.org/) and presented at MICCAI 2025.
 
-**2025.05.02:** 🎉🎉 Our short paper has been accepted by [MIDL 2025](https://2025.midl.io/).
-
-**2025.02.12:** 🎉🎉 Our paper has been accepted by [OHBM 2025](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229).
+**2025.05.02:** 🎉🎉 One paper has been accepted by [MIDL 2025](https://2025.midl.io/).
 
 
 # 📝 Publications 
@@ -58,14 +54,13 @@ Feel free to reach out to me for possible collaborations!
   <li id="JA-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Development and validation of an annotation-free deep learning framework for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI: a retrospective multicentre cohort study</span> <br>
     Mingxuan Liu#, <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Yi Liao#, Juncheng Zhu, Haoxiang Li, Hongjia Yang, ..., Gang Ning, Haibo Qu*, Qiyuan Tian* <br>
-    <i> Medical Image Analysis <strong>(MedIA).</strong></i> (Under Review)
+    <i> Medical Image Analysis <strong>(MedIA).</strong></i> (In Revision)
   </li>
 
   <li id="JA-Pub2"> 
-    <span style="color:#000000; font-weight:bold;">Development and validation of a deep learning model for fetal brain magnetic resonance image enhancement without clean reference: a multi-center study</span> <br>
+    <span style="color:#000000; font-weight:bold;">Anatomy-preserving enhancement of fetal brain MRI without clean references</span> <br>
     <span style="color:#b02418; font-weight:bold;">Yingqi Hao#</span>, Mingxuan Liu#, Yi Liao, Yitong Luo, ..., Haibo Qu*, Qiyuan Tian* <br>
-    <i> Radiology: Artificial Intelligence <strong>(RYAI).</strong></i> (Under Review)
-  </li>
+    <i> Communications Biology .</strong></i> (In Revision)
 
   <li id="JA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI</span> <br>
@@ -80,7 +75,7 @@ Feel free to reach out to me for possible collaborations!
   </li>
 </ol>
 
-#### CONFERENCE PAPERS
+#### First Author Conference Papers
 <ol reversed>
   <li id="CA-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Comprehensive Evaluation of Unsupervised Image Enhancement for Volumetric Fetal Brain MRI</span> <br>
@@ -92,14 +87,7 @@ Feel free to reach out to me for possible collaborations!
   <li id="CA-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Simple Baselines for Fetal Brain Unsupervised Anomaly Detection</span> <br>
      Hongjia Yang#, Mingxuan Liu#, <span style="color:#b02418;font-weight:bold;">Yingqi Hao#</span>, Xiaotian Hu, Yijin Li, ..., Yi Liao, Haibo Qu*, Qiyuan Tian*<br> 
-    <i>IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM).</strong></i> 2026. (Under Review) 
-  </li>
-
-  <li id="CA-Pub3"> 
-    <span style="color:#000000; font-weight:bold;">Unsupervised Anomaly Detection for Fetal Brain MRI using Two-Stage Denoising Autoencoder (&#x3C9;-DAE)</span> <br>
-    <span style="color:#b02418; font-weight:bold;">Yingqi Hao</span>, Mingxuan Liu, Juncheng Zhu, Hongjia Yang, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
-    <a href="https://hal.science/hal-04974207">[Paper]</a> <br> 
-    <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster)
+    <i>IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM).</strong></i> 2026. (Oral Presentation)
   </li>
 
 </ol>
