@@ -26,7 +26,7 @@ Know more about me from: [Google Scholar](https://scholar.google.com/citations?u
 
 Feel free to reach out to me for possible collaborations!
 
-<img src="../images/8ef33940-e95d-4e95-b1ae-fbf3836a6e75.png" alt="Countries I have visited" width="100%">
+<img src="../images/8ef33940-e95d-4e95-b1ae-fbf3836a6e75.png" alt="Countries I have visited" width="60%">
 
 # 🔥 News
 
@@ -107,8 +107,6 @@ Feel free to reach out to me for possible collaborations!
 # 📖 Educations
 - *2026.10 –* , Incoming PhD student: **Department of Engineering Science**, University of Oxford, United Kingdom.
 - *2022.09 – 2026.06*, B.Eng: **Weixian College** and **School of Biomedical Engineering**, Tsinghua University, China.
-
-# 📖 Countries I have visited
 
 # 🎣 International Activities
 
