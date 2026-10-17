@@ -26,6 +26,8 @@ Know more about me from: [Google Scholar](https://scholar.google.com/citations?u
 
 Feel free to reach out to me for possible collaborations!
 
+<img src="./images/8ef33940-e95d-4e95-b1ae-fbf3836a6e75.png" alt="Countries I have visited" width="100%">
+
 # 🔥 News
 
 **2026.6.25:** 🎉🎉 I was awarded the Outstanding Undergraduate Thesis at Tsinghua University. **(1/40)**
